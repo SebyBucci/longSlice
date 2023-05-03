@@ -1,0 +1,5 @@
+C:\Users\PC05\Desktop\bucci.sebastian.3i.longslice\obj\Debug\net6\SerieProdotto.csproj.AssemblyReference.cache
+C:\Users\PC05\Desktop\bucci.sebastian.3i.longslice\obj\Debug\net6\SerieProdotto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC05\Desktop\bucci.sebastian.3i.longslice\obj\Debug\net6\SerieProdotto.AssemblyInfoInputs.cache
+C:\Users\PC05\Desktop\bucci.sebastian.3i.longslice\obj\Debug\net6\SerieProdotto.AssemblyInfo.cs
+C:\Users\PC05\Desktop\bucci.sebastian.3i.longslice\obj\Debug\net6\SerieProdotto.csproj.CoreCompileInputs.cache
